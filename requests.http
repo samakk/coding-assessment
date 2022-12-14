@@ -1,0 +1,10 @@
+### execute algorithm 1
+GET http://localhost:8080/execute?signal=1
+
+### execute algorithm 2
+GET http://localhost:8080/execute?signal=2
+
+### execute algorithm 3
+GET http://localhost:8080/execute?signal=3
+
+
